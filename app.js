@@ -1,7 +1,7 @@
 //1)რა განსხვავება პრიმიტიულ და არაპრიმიტიულ მონაცემთა ტიპებში?
 //answer: 
 
-let answer = 'პრიმიტიულ მონაცემთა ტიპებს შეგვიძლია გადავცეთ მხოლოდ ერთი მნიშვნელობა, ხოლო არაპრიმიტიულ ტიპებს შეგვიძლია იმდენი მნიშნელობა გადავცეთ რამდენიც მოგვინდება.'
+let answer = 'პრიმიტიულ მონაცემთა ტიპებს შეგვიძლია გადავცეთ მხოლოდ ერთი მნიშვნელობა, ხოლო არაპრიმიტიულ ტიპებს შეგვიძლია იმდენი მნიშნელობა გადავცეთ რამდენიც მოგვინდება.';
 
 console.log(answer);
 
@@ -28,13 +28,13 @@ let isMarried = true;
 let empty;
 let comment = null;
 
-console.log(lastname, age, isMarried, empty, comment)
+console.log(lastname, age, isMarried, empty, comment);
 
 lastname = 24;
 age = 'khutsishvili';
 isMarried = false;
 
-console.log(lastname, age, isMarried, empty, comment)
+console.log(lastname, age, isMarried, empty, comment);
 
 
 
